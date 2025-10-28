@@ -1,32 +1,49 @@
-🏗️ Desafio: Entendendo Desafio - AWS CloudFormation
-🚀 Descrição
+# 🏗️ Desafio: Entendendo Desafio - AWS CloudFormation  
 
-Este projeto faz parte da formação AWS Cloud Practitioner da Digital Innovation One (DIO) e tem como objetivo colocar em prática os conceitos aprendidos sobre AWS CloudFormation, criando e gerenciando a primeira Stack na nuvem.
+![AWS CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-orange?logo=amazonaws&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
-O desafio propõe a implementação de uma Stack AWS via CloudFormation e a documentação completa da experiência no GitHub, demonstrando domínio das ferramentas e boas práticas de versionamento e documentação técnica.
+---
 
-🎯 Objetivos de Aprendizagem
+## 📘 Sobre o Desafio  
 
-Ao concluir este desafio, você será capaz de:
+Este projeto faz parte da formação **AWS Cloud Practitioner** da **Digital Innovation One (DIO)** e tem como objetivo **colocar em prática os conceitos aprendidos sobre AWS CloudFormation**, criando e gerenciando a **primeira Stack** na nuvem.  
 
-🧩 Aplicar os conceitos aprendidos em um ambiente prático da AWS;
+O desafio propõe a implementação de uma Stack AWS via CloudFormation e a **documentação completa da experiência**, demonstrando domínio das ferramentas e boas práticas de versionamento e documentação técnica.  
 
-📝 Documentar processos técnicos de forma clara e estruturada;
+---
 
-🌐 Utilizar o GitHub como ferramenta para compartilhamento e versionamento de documentação técnica;
+## 🎯 Objetivos de Aprendizagem  
 
-☁️ Compreender o funcionamento do AWS CloudFormation, suas vantagens e principais componentes (Stacks, Templates, Recursos e Parâmetros).
+Ao concluir este desafio, você será capaz de:  
 
-🧠 Conteúdo Abordado
+- 🧩 **Aplicar conceitos teóricos em um ambiente prático AWS**  
+- 📝 **Documentar processos técnicos de forma clara e estruturada**  
+- 🌐 **Utilizar o GitHub** como ferramenta de versionamento e documentação  
+- ☁️ **Compreender o funcionamento do AWS CloudFormation**, suas vantagens e principais componentes  
 
-Durante a realização do desafio, foram explorados os seguintes tópicos:
+---
 
-Introdução ao AWS CloudFormation;
+## 🧠 Conceitos Abordados  
 
-Estrutura e sintaxe de um template YAML/JSON;
+Durante o desafio, foram explorados os seguintes tópicos:  
 
-Criação de recursos na AWS via CloudFormation (ex: EC2, S3, IAM, etc.);
+- Introdução ao **AWS CloudFormation**  
+- Estrutura e sintaxe de um **template YAML/JSON**  
+- Criação de recursos na AWS (EC2, S3, IAM, etc.)  
+- Boas práticas de **deploy, rollback e versionamento**  
+- Documentação técnica com **Markdown no GitHub**
 
-Boas práticas de deploy, versionamento e rollback;
+---
 
-Documentação técnica com Markdown no GitHub.
+## ⚙️ Passos Realizados  
+
+### 🪣 1. Criação do Repositório  
+- Nome sugerido: `aws-cloudformation-desafio-dio`  
+- Estrutura organizada do projeto:
+  ```bash
+  ├── README.md
+  ├── template.yaml
+  ├── Prints
+  
